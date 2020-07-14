@@ -1,0 +1,1 @@
+run = "javac P1Highschoolresume.java && java P1Highschoolresume"
